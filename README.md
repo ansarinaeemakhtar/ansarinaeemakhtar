@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-it ✨ _Naeem Akhtar_ ✨
+it's ✨ _Naeem Akhtar_ ✨
 
 🔭 I’m currently working on
 HTML, CSS, JS, WordPress, PHP, and MySql.
