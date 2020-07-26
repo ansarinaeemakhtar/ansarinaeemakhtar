@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there, it's Naeem Akhtar 👋
 
-it's ✨ _Naeem Akhtar_ ✨
+✨ _intro_ ✨
 
 🔭 I’m currently working on
 HTML, CSS, JS, WordPress, PHP, and MySql.
 
 🌱 I’m currently learning
 React and Angular 2+.
+
+👯 I’m looking to collaborate on ???
 
 🤔 I’m looking for help with
 Understanding how react works and getting on with react
