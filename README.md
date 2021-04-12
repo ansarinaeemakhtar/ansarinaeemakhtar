@@ -12,8 +12,7 @@ https://raw.githubusercontent.com/ansarinaeemakhtar/ansarinaeemakhtar/master/hea
 🔭 I’m currently working on
 HTML, CSS, JS, WordPress, PHP, and MySql.
 
-🌱 I’m currently learning
-React and Angular 2+.
+🌱 I’ve working experience in Angular 2+.
 
 👯 I’m looking to collaborate on ???
 
