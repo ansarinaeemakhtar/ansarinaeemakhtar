@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/ansarinaeemakhtar/ansarinaeemakhtar/master/hea
 ✨ _intro_ ✨
 
 🔭 I’m currently working on
-HTML, CSS, JS, WordPress, PHP, and MySql.
+HTML, CSS, JS.
 
 🌱 I’ve working experience in Angular 2+.
 
@@ -18,6 +18,7 @@ HTML, CSS, JS, WordPress, PHP, and MySql.
 
 🤔 I’m looking for help with
 Understanding how react works and getting on with react
+Knowledge of WordPress, PHP, and MySql
 
 💬 Ask me about
 HTML CSS Responsive design WordPress
