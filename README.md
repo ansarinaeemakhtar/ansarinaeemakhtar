@@ -10,11 +10,9 @@ https://raw.githubusercontent.com/ansarinaeemakhtar/ansarinaeemakhtar/master/hea
 ✨ _intro_ ✨
 
 🔭 I’m currently working on
-HTML, CSS, JS.
+HTML, CSS, JS, Bootstrap, TailwindCss, Angular. Have understanding of React.
 
 🌱 I’ve working experience in Angular 2+.
-
-👯 I’m looking to collaborate on ???
 
 🤔 I’m looking for help with
 Understanding how react works and getting on with react
@@ -28,7 +26,7 @@ skype: momin.naeemakhtar
 gmail: momin.naeemakhtar
 
 😄 Pronouns:
-??
+He/Him/His
 
 ⚡ Fun fact:
 I am a professional typist.  Can type at the speed of 50+ wpm.
